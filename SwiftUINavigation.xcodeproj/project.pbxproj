@@ -103,14 +103,13 @@
 		31678EB02C0C414C00B67944 /* SwiftUINavigation */ = {
 			isa = PBXGroup;
 			children = (
+				31678EB12C0C414C00B67944 /* SwiftUINavigationApp.swift */,
 				31678ED02C0C49AF00B67944 /* DeeplinkManager */,
 				31678ECF2C0C49A300B67944 /* Views */,
 				31678ECE2C0C499B00B67944 /* Routers */,
 				31678ECD2C0C499100B67944 /* Extensions */,
 				31678EB52C0C414E00B67944 /* Assets.xcassets */,
 				31678EB72C0C414E00B67944 /* Preview Content */,
-				31678EB32C0C414C00B67944 /* ContentView.swift */,
-				31678EB12C0C414C00B67944 /* SwiftUINavigationApp.swift */,
 			);
 			path = SwiftUINavigation;
 			sourceTree = "<group>";
@@ -151,6 +150,7 @@
 		31678ECF2C0C49A300B67944 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				31678EB32C0C414C00B67944 /* ContentView.swift */,
 				31678EF62C0C4CE400B67944 /* TabD */,
 				31678EE92C0C4C2200B67944 /* TabC */,
 				31678EDE2C0C4B1B00B67944 /* TabB */,
